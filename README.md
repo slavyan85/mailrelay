@@ -1,0 +1,2 @@
+# mailrelay
+Simple email relay
